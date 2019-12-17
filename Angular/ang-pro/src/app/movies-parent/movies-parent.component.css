@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .col-md-3.card.card-body{
     height: 550px;
     overflow: scroll;
@@ -5,4 +6,13 @@
 img{
     height: 190px;
     cursor: pointer;
+=======
+.col-md-3.card.card-body{
+    height: 550px;
+    overflow: scroll;
+}
+img{
+    height: 190px;
+    cursor: pointer;
+>>>>>>> 3815c647b881be53e2c7c74eb316e98f0f12ed5d
 }
